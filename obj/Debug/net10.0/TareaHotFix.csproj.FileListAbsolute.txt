@@ -1,0 +1,15 @@
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHotFix.GeneratedMSBuildEditorConfig.editorconfig
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHotFix.AssemblyInfoInputs.cache
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHotFix.AssemblyInfo.cs
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHotFix.csproj.CoreCompileInputs.cache
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\bin\Debug\net10.0\TareaHotFix.exe
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\bin\Debug\net10.0\TareaHotFix.deps.json
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\bin\Debug\net10.0\TareaHotFix.runtimeconfig.json
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\bin\Debug\net10.0\TareaHotFix.dll
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\bin\Debug\net10.0\TareaHotFix.pdb
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHotFix.dll
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\refint\TareaHotFix.dll
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHotFix.pdb
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHotFix.genruntimeconfig.cache
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\ref\TareaHotFix.dll
+D:\escola\gitFlow_HotFix\TareaHotFix\TareaHotFix\obj\Debug\net10.0\TareaHot.0AEF6BC0.Up2Date
