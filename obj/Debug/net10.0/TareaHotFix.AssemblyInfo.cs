@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaHotFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eb4598eceb2cdf587fab8b36753da434d9e75e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaHotFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaHotFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

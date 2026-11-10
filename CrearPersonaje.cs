@@ -12,7 +12,7 @@ namespace TareaHotFix
         {
 
             Personaje personaje = new Personaje(
-                "Kane", 100, 20, 10, 1, "Comandante"
+                "Kane", 100, 20, 10, 1 ""Comandante"
             );
 
             Console.WriteLine($"Nombre: {personaje.Nombre}");
